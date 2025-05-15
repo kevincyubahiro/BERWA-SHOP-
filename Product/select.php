@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -11,6 +12,7 @@
 </head>
 <body>
     <h1 class='text-center text-success'>list of product </h1>
+       <a href="../index/index.php" class='btn btn-primary'>Back</a>
     <table border="2" class='table table-striped table-bordered  container '>
 <tr>
     <a href="insert.php" class='btn btn-success m-3'>Add New </a>

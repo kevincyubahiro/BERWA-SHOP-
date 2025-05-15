@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body class='card container'>
+<body class='container'> <a href="../index/index.php" class='btn btn-primary'>Back</a>
     <h2 class='text-center text-info'>Import production</h2>
+      
     <form action="" method="post">
         <input type="number" name="" id=""placeholder=' importin_id' class='form-control'> <br>
         <input type="text" name="ProductCode" id="" placeholder='ProductCode'class='form-control'> <br>

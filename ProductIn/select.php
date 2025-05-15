@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>list of product </h1>
+       <a href="../index/index.php" class='btn btn-primary'>Back</a>
     <table border="2" class='table table-striped table-boredred container'>
 <tr>
     <a href="insert.php">Add New Productin</a>

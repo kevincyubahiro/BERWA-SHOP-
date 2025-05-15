@@ -3,7 +3,9 @@
 <head>
    <style>
     body{
-        background-image: url('https://i.gifer.com/J4o.gif');
+        background-image: url('https://img.freepik.com/free-vector/gradient-abstract-wireframe-background_23-2149009903.jpg?semt=ais_hybrid&w=740');
+        background-repeat: no-repeat;
+       background-size: cover;
    
         
     }
@@ -25,6 +27,7 @@
     }
 
 p{
+    
     color: hsla(146, 23%, 94%, 0.952);
    font-size: xx-large;
   text-align: center;
